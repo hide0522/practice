@@ -1,0 +1,43 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: "none";
+}
+
+.header {
+  background-color: black;
+  color: yellow;
+  height: 90px
+}
+
+.header-logo {
+  float: left;
+  font-size: 50px;
+  padding: 10px 30px;
+}
+
+.header-list li {
+  list-style: none;
+  float: left;
+  padding: 33px 20px;
+
+}
+
+.contents-item {
+  float:left;
+  width: 33%;
+  height: 33%;
+}
+
+.contents-item img {
+  width: 300px;
+  height: 300px;
+
+}
+
+.contents-item p {
+  font-size: 30px;
+  margin-top: 20px;
+}
